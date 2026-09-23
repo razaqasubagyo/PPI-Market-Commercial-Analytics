@@ -1295,8 +1295,7 @@ PPI-Market-Commercial-Analytics/
 ├── data/
 │   └── README.md
 │
-├── powerbi/
-│   └── PPI_Market_Commercial_Analytics.pbix
+│   
 │
 └── docs/
     └── PPI_Market_Commercial_Analytics_Report.pdf
@@ -1308,9 +1307,7 @@ PPI-Market-Commercial-Analytics/
 
 ## Power BI Report
 
-The full Power BI model, DAX measures and dashboard pages are contained in:
-
-`powerbi/PPI_Market_Commercial_Analytics.pbix`
+The Power BI `.pbix` source file is available upon request.
 
 ---
 
